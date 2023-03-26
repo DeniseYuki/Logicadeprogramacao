@@ -2,7 +2,7 @@ programa {
   funcao inicio() {
     real numero,i,resultado,j;
     inteiro vetor[11]
-    escreva("Digite um número: \n")
+    escreva("Digite um nÃºmero: \n")
     leia(numero)
     i = numero;
     resultado = 0
