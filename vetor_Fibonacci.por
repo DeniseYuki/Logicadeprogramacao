@@ -1,6 +1,6 @@
 programa{
 funcao inicio() {
-    inteiro vetor_Fibonacci[10];
+    inteiro vetor_Fibonacci[10], i;
     vetor_Fibonacci[0] = 0
     vetor_Fibonacci[1] = 1
     
